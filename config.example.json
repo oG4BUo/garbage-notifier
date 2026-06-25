@@ -1,0 +1,4 @@
+{
+  "schedule_file":"sample_schedule.csv",
+  "notify_tomorrow": true
+}

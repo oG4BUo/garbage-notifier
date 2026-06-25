@@ -1,0 +1,6 @@
+pandas
+openpyxl
+plyer
+easyocr
+opencv-python
+numpy

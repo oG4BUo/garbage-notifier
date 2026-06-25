@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local config
+config.json
+
+# Database
+*.db
+
+# OCR generated files
+cells/
+cell_debug/
+ocr_result.csv
+
+# Local images
+*.png
+*.jpg
+*.jpeg
+
+# Excel working files
+~$*.xlsx
